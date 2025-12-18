@@ -1,0 +1,21 @@
+[
+{"hash":"f01b316591b2e43f7676928a8d23f3380c5e2b50","date":"2025-12-18 00:50:18 -0500","message":"Attempt #2 at fixing the update check...","version":"0.1.38"}
+,
+{"hash":"fc57d9ccaf49f02442a62abee7294a4dde958be9","date":"2025-12-18 00:46:46 -0500","message":"Attempt to fix the version API","version":"0.1.38"}
+,
+{"hash":"08bd262a46d3149e7bad2a5692fc1984350dcc6d","date":"2025-12-18 00:39:14 -0500","message":"Hide the update info UI if failed to get version data.","version":"0.1.38"}
+,
+{"hash":"e04884b2b52adc5bd8fcc5cb428aabd260e76695","date":"2025-12-17 23:07:34 -0500","message":"Test pushing to staging branch.","version":"0.1.38"}
+,
+{"hash":"23e2073427be45f81b93098872902a33eba61aee","date":"2025-12-17 23:06:39 -0500","message":"Test staging push.","version":"0.1.38"}
+,
+{"hash":"0d84dc2aa35c30b7351ff9ea62eb4d5e691cff46","date":"2025-12-17 23:02:01 -0500","message":"Change webhook to only show the last commit when an update is triggered by an update to the reactions.","version":"0.1.38"}
+,
+{"hash":"a81804554a48c3d06b24b1080199560d4a8cc359","date":"2025-12-17 22:49:14 -0500","message":"Update CI/CD pipeline with additional changes to Discord webhooks.","version":"0.1.38"}
+,
+{"hash":"933e5f0ceefe82d6ae34440b53cd26cd6321ff20","date":"2025-12-17 22:39:35 -0500","message":"Re-add commit message to the discord webhook.","version":"0.1.38"}
+,
+{"hash":"c88b05a93c08727194ce5f3436317357b5a432fc","date":"2025-12-17 22:36:50 -0500","message":"Re-add commit message to the discord webhook.","version":"0.1.38"}
+,
+{"hash":"444da56454445f05c7e284352e25f2dd695ab916","date":"2025-12-17 22:34:17 -0500","message":"Re-add commit message to webhook.","version":"0.1.38"}
+]
