@@ -1,0 +1,1 @@
+This page just functions as an update endpoint for AnyoneCore.
